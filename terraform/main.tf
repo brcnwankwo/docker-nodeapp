@@ -33,7 +33,7 @@ resource "aws_instance" "server" {
 }
 
 resource "aws_iam_instance_profile" "ec2_profile" {
-  name = "ec2-profile"
+  name = "ec2_profile"
   role = "EC2-ECR-AUTHY"
 }
 
