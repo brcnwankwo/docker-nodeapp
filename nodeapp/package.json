@@ -1,0 +1,22 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "nodeapp on docker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brcnwankwo/docker-nodeapp.git"
+  },
+  "author": "brandon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brcnwankwo/docker-nodeapp/issues"
+  },
+  "homepage": "https://github.com/brcnwankwo/docker-nodeapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
