@@ -1,6 +1,5 @@
 ## Complete CI/CD pipleine with Terraform and Github Actions
 
----
 
 In this project I will be using Terraform to deploy a Node.js application using Docker on an Amazon EC2.
 
