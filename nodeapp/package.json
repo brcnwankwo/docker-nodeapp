@@ -1,5 +1,5 @@
 {
-  "name": "nodeapp",
+  "name": "docker-nodeapp",
   "version": "1.0.0",
   "description": "nodeapp on docker",
   "main": "app.js",
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/brcnwankwo/docker-nodeapp#readme",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {}
 }
